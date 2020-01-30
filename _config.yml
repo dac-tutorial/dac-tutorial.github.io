@@ -65,9 +65,11 @@ disqus: # fromendworld
 # Gitalk
 gitalk:
   clientID: 3421ac648e7dfdaf97b7
-  clientSecret: 61d5502243b1cff961a310aa99b131973a26d822
+  clientSecret: c4fb3f6838406187c145dcde36a1b0fe677e23f9
   repo: dac-tutorial.github.io
   owner: dac-tutorial
+  admin: [dac-tutorial]
+  id: window.location.pathname
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 # google_analytics: 
