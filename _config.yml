@@ -68,7 +68,6 @@ gitalk:
   clientSecret: 123b77b6941d767511d90af2c9fe3702fdadfa1c
   repo: dac-tutorial.github.io
   owner: dac-tutorial
-  admin: yangzy1202
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 # google_analytics: 
