@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "文档代码化 (Sphinx) 教程"
+title: "文档代码化 (Docs as Code) 教程"
 date:   2020-1-12
 tags: [Docs as Code]
 comments: true
