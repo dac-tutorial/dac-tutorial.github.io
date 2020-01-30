@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Markdown 语法指南"
+date:   2020-1-1
+tags: [Markdown]
+comments: true
+author: DAC-Tutorial
+---
+
 <img src="../images/markdown-icon.png" alt="markdown-icon" style="zoom:120%;" />
 
 Markdown 是一种轻量级标记语言，创始人为约翰·格鲁伯（John Gruber）。
