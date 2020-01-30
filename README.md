@@ -1,4 +1,6 @@
-# DAC-Tutorial 的[博客仓库](https://dac-tutorial.github.io/)
+# DAC-Tutorial 的博客仓库
+
+博客地址：<https://dac-tutorial.github.io/>
 
 > **声明：** 博客模板来自 [lemonchann 的个人博客仓库](https://github.com/lemonchann/lemonchann.github.io) ，感谢 lemonchann 的分享！
 
