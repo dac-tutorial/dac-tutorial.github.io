@@ -37,7 +37,7 @@ excerpt_separator: <!-- more -->
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  #weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
+  weibo: #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<username>
   dribbble:
   zhihu: 
@@ -68,6 +68,7 @@ gitalk:
   clientSecret: 5664614fb5895eded308c0b56da65040f6dc6620
   repo: dac-tutorial.github.io
   owner: yangzy1202
+  admin: [yangzy1202]
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 # google_analytics: 
