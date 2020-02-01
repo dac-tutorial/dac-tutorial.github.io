@@ -66,7 +66,7 @@ disqus: # fromendworld
 gitalk: true
 clientID: '48cac5d2bfe70b7af8b0'
 clientSecret: '5664614fb5895eded308c0b56da65040f6dc6620'
-repo: 'blog-comments'
+repo: 'dac-tutorial.github.io'
 owner: 'dac-tutorial'
 admin: 'yangzy1202'
 distractionFreeMode: true
